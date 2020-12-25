@@ -1,8 +1,10 @@
-# *我成某人的第一个博客*
-* **今天是圣诞节**
-* **天气很冷**
-## 我做了三件事情
-1. 睡觉
-1. 吃饭
-1. 学习
-![]( https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=941377729,3652576967&fm=26&gp=0.jpg )
+# **今天学习了MarkDown**
+## MarkDown是一种超文本语言，今天我第一次学习了它。
+Hello MarkDown！
+## 接下来我还会学习：
+1. Git的基础命令
+1. Hexo框架
+1. Hexo更换主题
+## 用命令行敲命令是一种Geek行为，我觉得还挺有趣的。
+## 有点意思，下面这张gif可以形容我的心情：
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
