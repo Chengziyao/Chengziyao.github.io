@@ -5,4 +5,4 @@
 #### 1. 睡觉
 #### 1. 吃饭
 #### 1. 学习
-![] (https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=941377729,3652576967&fm=26&gp=0.jpg)
+![](https://dss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=941377729,3652576967&fm=26&gp=0.jpg)
