@@ -1,8 +1,8 @@
 # *我成某人的第一个博客*
-## * **今天是圣诞节**
-## * **天气很冷**
-### 我做了三件事情
-#### 1. 睡觉
+* **今天是圣诞节**
+* **天气很冷**
+## 我做了三件事情
+1. 睡觉
 1. 吃饭
 1. 学习
 ![](https://www.baidu.com/link?url=Cktd6a8M0hZovKgG40-awQ_uoqWJGNR_gGgM6oDuP4qPGLdXzKJbHR3B6R-2u12LTzKvftz6HJxKQ0Vg1zlBGg9EAHPTFHuKJ59q8cI5ib8xygL-lBbeXIkCf6fJJsJ511A4zM7F3HrsYVGLUvEGX5TZ0wbnaILXbfKhJ2BPgCs6lEFMG3CPbFvrj1YzxDX3uZXHBHpLyUpEFCnvpWsqh5hNPqyDdE9Sat49uWNyA80iZm3IEYkevAy578ZI2VJ8FAqwX4RCs4JtWoP4fhb2wgcLlPwg0i4-0yiAPWxruTRXmhiK6gHsReT8zI-mDRui9sMDzjaRFRIVAGoxv_ovtco1ROlryQYj46zDxZk5jqX_skY0Kbe4sHGskoS7dzHCOK3vTQpwcM6o5S7Kg_5oogVp0duV0mo118b1H2kC7ZCmphouy7_vxku_qVH7CENs0muCBRLzi5CV5cONAl-YYOCwaq4qCGQNonJOGK4wCSgrujrAWiPR8pBVKIOV7grWkC0LqCmkzL0sNgj0CTLtF13W6-lxEz5dGXgv54pvDzLyQVYfEvG3yfC8FcZOALJ1Ju43__T3AqKbBZzawjMiKe11Up2g89gGCrmWY7JP4FWMDZY2-OzIL76uT6F5VKE9YkRtWoop5DyXlwmYakIBoH1VrG-AO8XiVoO_0ijKF0G&click_t=1608905242204&s_info=1312_652&wd=&eqid=a19e6762000684bc000000055fe5ee09)
